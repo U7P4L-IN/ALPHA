@@ -32,7 +32,7 @@ U7P4L IN
 
  ls
 
- python CRACK.py
+ python UMO.py
 ```
 #### Screenshots:
 
