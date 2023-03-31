@@ -32,7 +32,7 @@ U7P4L IN
 
  ls
 
- python UMO.py
+ python Pro.py
 ```
 #### Screenshots:
 
