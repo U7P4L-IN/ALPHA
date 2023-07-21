@@ -25,14 +25,14 @@ U7P4L IN
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf CRACK
- git clone --depth=1 https://github.com/U7P4L-IN/CRACK.git
+ rm -rf ALPHA
+ git clone --depth=1 https://github.com/U7P4L-IN/ALPHA.git
 
- cd CRACK
+ cd ALPHA
 
  ls
 
- python Free.py
+ python ALPHA.py
 ```
 #### Screenshots:
 
@@ -41,6 +41,6 @@ U7P4L IN
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=CRACK&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=ALPHA&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ## Thanks For Visiting 🧡🧡
