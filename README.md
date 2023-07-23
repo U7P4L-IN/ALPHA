@@ -34,9 +34,21 @@ U7P4L IN
 
  python ALPHA.py
 ```
-#### Screenshots:
+### Screenshots:
+<p align="center"><img src="https://github.com/U7P4L-IN/ALPHA/blob/main/image/Screenshot_2023-07-23-21-10-20-694_com.termux-01.jpeg">
 
-<p align="center"><img src="namehttps://github.com/U7P4L-IN/CRACK/blob/main/IMG_20230519_122454.jpg">
+## DEMO 1
+<p align="center"><img src="https://github.com/U7P4L-IN/ALPHA/blob/main/image/IMG_20230712_214923_448.jpg">
+
+## DEMO 2
+<p align="center"><img src="https://github.com/U7P4L-IN/ALPHA/blob/main/image/received_1132061374435338.jpeg">
+
+## DEMO 3
+<p align="center"><img src="https://github.com/U7P4L-IN/ALPHA/blob/main/image/IMG_20230712_155901_558.jpg">
+
+## DEMO 4
+<p align="center"><img src="https://github.com/U7P4L-IN/ALPHA/blob/main/image/IMG_20230712_214920_517.jpg">
+
 
 
 #### Tools Languages :
