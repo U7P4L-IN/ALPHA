@@ -30,7 +30,7 @@ U7P4L IN
 
  cd ALPHA
 
- ls
+ chmod +x *
 
  python ALPHA.py
 ```
