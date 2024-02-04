@@ -33,12 +33,12 @@ chmod +x *
 python ALPHA.py
 ```
 ### Screenshots:
-<p align="center"><img src=".image/photo1.jpeg">
+<p align="center"><img src=".image/photo1.jpg">
 
 <h5 align="center"><b>TERMUX > </b></h5>
 
 <p align="center"><img src="./image/photo2.jpg">
-<p align="center"><img src="./image/photo3.jpeg">
+<p align="center"><img src="./image/photo3.jpg">
 
 ### Tools Languages :
 
