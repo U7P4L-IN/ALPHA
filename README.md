@@ -34,7 +34,7 @@ python ALPHA.py
 ```
 ### Menu >
 
-<p align="center"><img src=".image/photo1.jpg">
+<p align="center"><img src="./image/photo1.jpg">
 
 <h5 align="center"><b>TERMUX > </b></h5>
 
