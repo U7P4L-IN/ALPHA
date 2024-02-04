@@ -32,7 +32,8 @@ cd ALPHA
 chmod +x *
 python ALPHA.py
 ```
-### Screenshots:
+### Menu >
+
 <p align="center"><img src=".image/photo1.jpg">
 
 <h5 align="center"><b>TERMUX > </b></h5>
@@ -40,7 +41,7 @@ python ALPHA.py
 <p align="center"><img src="./image/photo2.jpg">
 <p align="center"><img src="./image/photo3.jpg">
 
-### Tools Languages :
+### Languages >
 
 </a>
 
