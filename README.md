@@ -33,14 +33,12 @@ chmod +x *
 python ALPHA.py
 ```
 ### Screenshots:
-<p align="center"><img src="https://github.com/U7P4L-IN/ALPHA/blob/main/image/Screenshot_2023-07-23-21-10-20-694_com.termux-01.jpeg">
+<p align="center"><img src=".image/photo1.jpeg">
 
 <h5 align="center"><b>TERMUX > </b></h5>
 
-<p align="center"><img src="https://github.com/U7P4L-IN/ALPHA/blob/main/image/IMG_20230712_214923_448.jpg">
-<p align="center"><img src="https://github.com/U7P4L-IN/ALPHA/blob/main/image/received_1132061374435338.jpeg">
-<p align="center"><img src="https://github.com/U7P4L-IN/ALPHA/blob/main/image/IMG_20230712_155901_558.jpg">
-<p align="center"><img src="https://github.com/U7P4L-IN/ALPHA/blob/main/image/IMG_20230712_214920_517.jpg">
+<p align="center"><img src="./image/photo2.jpg">
+<p align="center"><img src="./image/photo3.jpeg">
 
 ### Tools Languages :
 
